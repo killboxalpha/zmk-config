@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmk
     - name: spe2
-      url-base: https://github.com/spe2/zmk
+      url-base: https://github.com/spe2
   projects:
     - name: zmk
       remote: spe2
