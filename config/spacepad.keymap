@@ -42,7 +42,7 @@
     &kp RIGHT_ARROW     &kp X    &kp LEFT_ARROW   &kp UP_ARROW
     &kp LC(LA(J))       &kp J    &kp K            &kp DOWN_ARROW
     &kp LA(S)           &kp LA(S)&kp LA(S)        &kp LEFT_ARROW
-    &tog 0              &tog 2   &tog 3           &kp RIGHT_ARROW
+    &tog 1              &tog 2   &tog 3           &kp RIGHT_ARROW
     &none               &none    &none            &trans
              >;
 
@@ -60,7 +60,7 @@
     &kp UP_ARROW        &kp Y    &kp DOWN_ARROW   &kp UP_ARROW
     &kp LC(LA(J))       &kp J    &kp K            &kp DOWN_ARROW
     &kp LA(S)           &kp LA(S)&kp LA(S)        &kp LEFT_ARROW
-    &tog 1              &tog 0   &tog 3           &kp RIGHT_ARROW
+    &tog 1              &tog 1   &tog 3           &kp RIGHT_ARROW
     &none               &none    &none            &trans
              >;
 
@@ -78,7 +78,7 @@
     &kp PAGE_DOWN       &kp Z    &kp PAGE_UP      &kp UP_ARROW
     &kp LC(LA(J))       &kp J    &kp K            &kp DOWN_ARROW
     &kp LA(S)           &kp LA(S)&kp LA(S)        &kp LEFT_ARROW
-    &tog 1              &tog 2   &tog 0           &kp RIGHT_ARROW
+    &tog 1              &tog 2   &tog 3           &kp RIGHT_ARROW
     &none               &none    &none            &trans
              >;
 
