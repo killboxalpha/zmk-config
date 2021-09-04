@@ -21,7 +21,7 @@
 // |   X_layer   |    Y_layer  |  Z_layer |
 // ----------------------------------------
             bindings = <
-    &kp LA(R)     &kp LA(N) &kp LC(W)   &kp UP_ARROW
+    &bt BT_CLR     &kp LA(N) &kp LC(W)   &kp UP_ARROW
     &kp LC(LA(J)) &kp F5    &kp N6      &kp DOWN_ARROW
     &to  0        &kp END   &kp END     &kp LEFT_ARROW
     &to 1         &to 2     &to 3       &kp RIGHT_ARROW
